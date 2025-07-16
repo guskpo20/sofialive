@@ -1,4 +1,4 @@
-guskpo20.github.io/sofialive/
+Pueden ver la pagina aqui: [Pagina](guskpo20.github.io/sofialive/)
 
 
 Este proyecto fue desarrollado desde cero como trabajo freelance. El cliente proporcionó un diseño inicial, el cual requería algunos ajustes para lograr una mejor coherencia visual y usabilidad.
